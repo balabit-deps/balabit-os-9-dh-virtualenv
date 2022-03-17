@@ -1,3 +1,16 @@
+dh-virtualenv (1.2.2-1.1build1) jammy; urgency=medium
+
+  * No-change rebuild with Python 3.10 only
+
+ -- Graham Inggs <ginggs@ubuntu.com>  Thu, 17 Mar 2022 19:22:37 +0000
+
+dh-virtualenv (1.2.2-1.1) unstable; urgency=medium
+
+  * NMU.
+  * Rebuild to update python3.X-venv dependency. Closes: #984766.
+
+ -- Vincent Bernat <bernat@debian.org>  Mon, 08 Mar 2021 09:02:45 +0100
+
 dh-virtualenv (1.2.2-1) unstable; urgency=medium
 
   * New upstream release (Closes: #970810)
