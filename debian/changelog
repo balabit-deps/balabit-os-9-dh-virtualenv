@@ -1,3 +1,9 @@
+dh-virtualenv (1.2.2-1.1build1bb1) jammy; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Mon, 05 Sep 2022 22:16:22 +0200
+
 dh-virtualenv (1.2.2-1.1build1) jammy; urgency=medium
 
   * No-change rebuild with Python 3.10 only
